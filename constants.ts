@@ -1,7 +1,7 @@
 
 // URL do backend - Certifique-se de que corresponde à porta do seu servidor Node.js
 // Para deploy no Netlify, este URL precisará ser o URL do seu backend deployado (ex: Netlify Functions ou outro serviço).
-export const BACKEND_URL = 'http://localhost:3001'; // Ou a sua URL de backend de produção
+export const BACKEND_URL = ''; // Vazio para usar caminhos relativos no Netlify
 
 export const MOCK_PRODUCTS_DATA = [
   { id: 'MLB001', title: 'Produto Simulado A (Stock Alto)', price: 199.90, currentStock: 75, avgDailySales: 3, minStock: 21, thumbnail: 'https://picsum.photos/seed/MLB001/60/60' },
