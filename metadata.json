@@ -1,0 +1,7 @@
+
+{
+  "name": "Stock Control Dashboard Pro",
+  "description": "A dashboard to manage and visualize product stock levels, integrated with Mercado Livre.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
